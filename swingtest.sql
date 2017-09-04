@@ -1,0 +1,2 @@
+SELECT * FROM people
+LIMIT 0, 1000
